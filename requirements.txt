@@ -1,0 +1,10 @@
+# Formal AI Governance Framework
+# Requirements
+
+# This project uses only Python standard library modules
+# No external dependencies are required for core functionality
+
+# Python 3.6 or higher is recommended
+
+# Optional dependencies for extended functionality:
+# sympy>=1.12  # For mathematical analysis (optional)
