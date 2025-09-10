@@ -6,6 +6,17 @@ A mathematically-rigorous framework for AI governance based on formal verificati
 
 This framework provides **mathematical guarantees** for AI agent behavior through formal verification using proof assistants. Unlike traditional testing-based approaches, this provides **provable safety properties** rather than empirical validation.
 
+## 🤝 Relationship to Distributed Systems
+
+This framework applies well-established distributed consensus principles to AI agent governance:
+
+- **Capability-Based Hierarchy** ≡ **Resource-Based Authority** (Proof of Stake)
+- **Formal Verification** ≡ **Computational Proof** (Proof of Work)  
+- **Ethical Compliance** ≡ **Trusted Identity** (Proof of Authority)
+- **Responsibility Tracking** ≡ **Temporal Consistency** (Proof of History)
+
+Built on mathematical foundations from Practical Byzantine Fault Tolerance and distributed consensus protocols.
+
 ## 🔧 Key Components
 
 ### 1. Hierarchy Management
